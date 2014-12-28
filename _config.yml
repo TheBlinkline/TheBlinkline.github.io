@@ -1,0 +1,4 @@
+# Site settings
+markdown: redcarpet
+baseurl: ""
+exclude: ['README.md']
